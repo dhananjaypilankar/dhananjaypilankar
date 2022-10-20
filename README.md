@@ -22,3 +22,5 @@ This is Dhananjay Pilankar, electronics engineer pass-out of 2008 batch from Mum
  <source media="(prefers-color-scheme: light)" srcset="https://media.istockphoto.com/photos/programming-source-code-abstract-background-picture-id1047259374?k=20&m=1047259374&s=612x612&w=0&h=pt3XbBvrmiYgoYmVzsaUeXtV8vw_jJI9Ly8P7AL6Qig=">
  <img alt="Test Image" src="https://media.istockphoto.com/photos/programming-source-code-abstract-background-picture-id1047259374?k=20&m=1047259374&s=612x612&w=0&h=pt3XbBvrmiYgoYmVzsaUeXtV8vw_jJI9Ly8P7AL6Qig=">
 </picture>
+
+Tested the picture integration and it is fun ;-)
