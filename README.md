@@ -16,3 +16,9 @@ Here are some ideas to get you started:
 -->
 
 This is Dhananjay Pilankar, electronics engineer pass-out of 2008 batch from Mumbai University. I have over 14 years of experience when I have started managing my profile on Github. I have worked on various microcontroller architectures in my entire career right from AVR till 32-Bit ARM core. I have proficiency over FreeRTOS also. Reason for logging in to github is through my experience and coding skills help grow the open source community.
+
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://media.istockphoto.com/photos/programming-source-code-abstract-background-picture-id1047259374?k=20&m=1047259374&s=612x612&w=0&h=pt3XbBvrmiYgoYmVzsaUeXtV8vw_jJI9Ly8P7AL6Qig=">
+ <source media="(prefers-color-scheme: light)" srcset="https://media.istockphoto.com/photos/programming-source-code-abstract-background-picture-id1047259374?k=20&m=1047259374&s=612x612&w=0&h=pt3XbBvrmiYgoYmVzsaUeXtV8vw_jJI9Ly8P7AL6Qig=">
+ <img alt="Test Image" src="https://media.istockphoto.com/photos/programming-source-code-abstract-background-picture-id1047259374?k=20&m=1047259374&s=612x612&w=0&h=pt3XbBvrmiYgoYmVzsaUeXtV8vw_jJI9Ly8P7AL6Qig=">
+</picture>
